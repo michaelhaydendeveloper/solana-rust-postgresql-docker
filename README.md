@@ -10,7 +10,7 @@ Ensure you have the following installed on your machine:
 - Docker Compose
 
 ## Project Structure
-
+```
 /your-project
 ├── Cargo.toml
 ├── Cargo.lock
@@ -19,7 +19,7 @@ Ensure you have the following installed on your machine:
 ├── .env
 ├── Dockerfile
 └── docker-compose.yml
-
+```
 ## Setup Instructions
 
 1. **Clone the repository**:
