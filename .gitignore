@@ -1,0 +1,23 @@
+# Compiled files
+/target/
+
+# Cargo.lock file
+Cargo.lock
+
+# Generated documentation
+/doc/
+
+# Environment file
+.env
+
+# IDE files (if using VSCode)
+.vscode/
+
+# Docker Compose file
+docker-compose.yml
+
+# Docker volumes
+.docker/
+
+# Ignore database data (if not needed in the repo)
+/postgres_data/
