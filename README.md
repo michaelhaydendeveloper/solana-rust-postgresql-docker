@@ -1,4 +1,3 @@
-```markdown
 # Solana Rust Blockchain Development with Docker
 
 This repository provides a development environment for building blockchain applications using Solana and Rust, with a PostgreSQL database and hot reloading on file changes. The environment is set up using Docker and Docker Compose.
@@ -12,7 +11,6 @@ Ensure you have the following installed on your machine:
 
 ## Project Structure
 
-```
 /your-project
 ├── Cargo.toml
 ├── Cargo.lock
@@ -21,7 +19,6 @@ Ensure you have the following installed on your machine:
 ├── .env
 ├── Dockerfile
 └── docker-compose.yml
-```
 
 ## Setup Instructions
 
@@ -116,5 +113,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
